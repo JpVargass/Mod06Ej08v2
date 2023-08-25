@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pala1">#071952</color>
+    <color name="pala2">#0B666A</color>
+    <color name="pala3">#35A29F</color>
+    <color name="pala4">#97FEED</color>
+    <color name="palb1">#900C3F</color>
+    <color name="palb2">#C70039</color>
+    <color name="palb3">#F94C10</color>
+    <color name="palb4">#F8DE22</color>
 </resources>
